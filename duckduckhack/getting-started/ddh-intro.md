@@ -2,8 +2,11 @@
 
 We are a community of developers and non-developers alike, with a passion for search and privacy, who are helping to make DuckDuckGo and its community a better place. As a developer, we need your help creating and improving the coolest part of our search engine - our Instant Answers!
 
-## What are Instant Answers?
+<div>
+  <p>Look ma, HTML!</p>
+</div>
 
+## What are Instant Answers?
 
 DuckDuckGo users believe in better answers with fewer clicks. Our Instant Answers are always placed at the top of the results page to provide exactly what you want, often without requiring any extra clicks.
 
